@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CartaoDeVisita</string>
+    <string name="nome">Sebastião Vinícius</string>
+    <string name="funcao">Desenvolvedor Android - Engenheiro de Software\n</string>
+    <string name="string_phoneNumber">+55 (86) 99501 3330</string>
+    <string name="string_pix">PIX: 86 99501 3330</string>
+    <string name="string_instagram"> Instagram: @vinicius.agora</string>
+    <string name="string_group"> NPNP group</string>
+</resources>
